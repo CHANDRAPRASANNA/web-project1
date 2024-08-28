@@ -1,0 +1,30 @@
+body{
+    background-image: url(weather.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+.top{
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+   
+}
+.searcharea{
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    
+}
+#search1{
+    border: 3px solid;
+    border-radius: 4px;
+}
+#applycolor{
+    color: black !important;
+}
+.card{
+    background-color: transparent !important;
+    color: rebeccapurple !important;
+    font-weight:bold ;
+}
